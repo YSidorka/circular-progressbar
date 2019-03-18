@@ -6,9 +6,11 @@ circular-progressbar.css / v1.0.0
 
 1.0.0
 
+![example](https://github.com/YSidorka/circular-progressbar/blob/master/view.jpg)
+
 #### example
 ````
-<div class="progress" style="color:yellow">
+<div class="progress">
     <span class="progress-left">
       <span class="progress-bar"></span>
     </span>
